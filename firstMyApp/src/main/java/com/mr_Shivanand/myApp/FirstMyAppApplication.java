@@ -10,6 +10,8 @@ public class FirstMyAppApplication {
 	public static void main(String[] args) {
 		ApplicationContext ac = SpringApplication.run(FirstMyAppApplication.class, args);
 		
+		student st;
+		drive dr;
 	}
 
 }

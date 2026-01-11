@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.mr_Shivanand.myApp.rider&apos; to &apos;drive&apos;&#x0D;&#x0A;- Original project: &apos;firstMyApp&apos;&#x0D;&#x0A;- Original element: &apos;com.mr_Shivanand.myApp.rider&apos;&#x0D;&#x0A;- Renamed element: &apos;com.mr_Shivanand.myApp.drive&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;rider&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mr_Shivanand.myApp{rider.java[rider" matchStrategy="1" name="drive" qualified="false" references="true" similarDeclarations="false" stamp="1768149629688" textual="false" version="1.0"/>
+</session>

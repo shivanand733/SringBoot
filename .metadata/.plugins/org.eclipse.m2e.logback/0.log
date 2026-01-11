@@ -410,3 +410,178 @@
 2026-01-11 22:25:16,289 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2026-01-11 22:25:16,291 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2026-01-11 22:25:16,293 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:29:03,201 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-01-11 22:29:03,204 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-01-11 22:29:03,207 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:33:24,178 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-01-11 22:33:24,181 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-01-11 22:33:24,184 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:33:39,632 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-01-11 22:33:39,635 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-01-11 22:33:39,637 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:33:56,603 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-01-11 22:33:56,607 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-01-11 22:33:56,609 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:35:20,195 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-01-11 22:35:20,199 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-01-11 22:35:20,201 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:35:39,566 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-01-11 22:35:39,568 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-01-11 22:35:39,571 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:36:25,449 [Worker-18: Launching FirstMyAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-01-11 22:36:25,453 [Worker-18: Launching FirstMyAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-01-11 22:36:25,457 [Worker-18: Launching FirstMyAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:37:11,842 [Worker-24: Launching FirstMyAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-01-11 22:37:11,854 [Worker-24: Launching FirstMyAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-01-11 22:37:11,860 [Worker-24: Launching FirstMyAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:37:35,574 [Worker-25: Launching FirstMyAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-01-11 22:37:35,577 [Worker-25: Launching FirstMyAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-01-11 22:37:35,580 [Worker-25: Launching FirstMyAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:38:10,154 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-01-11 22:38:10,158 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-01-11 22:38:10,159 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\firstMyApp\src\test\resources
+2026-01-11 22:56:51,125 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [364])
+2026-01-11 22:56:51,127 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2026-01-11 22:56:51,127 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2026-01-11 22:56:51,127 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2026-01-11 22:56:51,128 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2026-01-11 22:56:51,129 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2026-01-11 22:56:51,130 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2026-01-11 22:56:51,131 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.8.jre [31])
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\com.google.guava_33.4.8.jre.jar
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [613])
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\slf4j.api_2.0.17.jar
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [46])
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [55])
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [79])
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2026-01-11 22:56:51,132 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2026-01-11 22:56:51,133 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2026-01-11 22:56:51,133 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.3 [32])
+2026-01-11 22:56:51,133 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.31.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.3.jar
+2026-01-11 22:56:51,135 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\user\AppData\Local\Temp\m2e-archetypeGenerator1763032101170711889":
+2026-01-11 22:56:51,136 [Worker-30: Launching mavenrun-5cc99b54-fa57-42ff-8629-07f45eb9663d] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DjavaCompilerVersion=17 -DjunitVersion=5.11.0 -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5 -DgroupId=com.Mr_Shivanand -DartifactId=DemoSpring -Dversion=0.0.1-SNAPSHOT -Dpackage=com.Mr_Shivanand.DemoSpring -DoutputDirectory=C:\Users\user\workspace-spring-tools -Dstyle.color=always -U archetype:generate
+2026-01-11 22:58:47,259 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\user\workspace-spring-tools\DemoSpring\pom.xml
+2026-01-11 22:58:47,505 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Mr_Shivanand:DemoSpring:0.0.1-SNAPSHOT @ C:\Users\user\workspace-spring-tools\DemoSpring\pom.xml.
+2026-01-11 22:58:47,830 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoSpring/src/main/java
+2026-01-11 22:58:47,833 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoSpring/src/main/resources
+2026-01-11 22:58:47,836 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoSpring/src/test/java
+2026-01-11 22:58:47,837 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoSpring/src/test/resources
+2026-01-11 22:58:47,921 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2026-01-11 22:58:49,018 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\DemoSpring\src\main\resources
+2026-01-11 22:58:49,023 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\DemoSpring\src\test\resources
+2026-01-11 22:59:05,450 [Worker-18: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FirstMyAppApplication references closed project firstMyApp
+org.eclipse.core.runtime.CoreException: Launch configuration FirstMyAppApplication references closed project firstMyApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1871)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1745)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2026-01-11 22:59:05,464 [Worker-18: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FirstMyAppApplication references closed project firstMyApp
+org.eclipse.core.runtime.CoreException: Launch configuration FirstMyAppApplication references closed project firstMyApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1871)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1745)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2026-01-11 22:59:05,466 [Worker-18: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FirstMyAppApplication references closed project firstMyApp
+org.eclipse.core.runtime.CoreException: Launch configuration FirstMyAppApplication references closed project firstMyApp
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1871)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1745)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2009)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2026-01-11 22:59:21,300 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\DemoSpring\src\main\resources
+2026-01-11 22:59:21,302 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\DemoSpring\src\test\resources
+2026-01-11 22:59:28,754 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\DemoSpring\src\main\resources
+2026-01-11 22:59:28,755 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\DemoSpring\src\test\resources
+2026-01-11 23:00:52,855 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\DemoSpring\src\main\resources
+2026-01-11 23:00:52,857 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\workspace-spring-tools\DemoSpring\src\test\resources

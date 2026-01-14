@@ -1,9 +1,13 @@
 package com.Mr_Shivanand.DemoSpring;
 
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
 public class App {
     public static void main(String[] args) {
-    	Dev obj = new Dev();
-    	obj.build(); 
+    	ApplicationContext ac = new ClassPathXmlApplicationContext("spring.xml");
+    	Dev obj = (Dev)ac.getBean("dev");
+    	obj.build();
     			
     }
 }

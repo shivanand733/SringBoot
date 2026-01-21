@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\user\workspace-spring-tools\DemoSpring"/>
 			<item value="C:\Users\user\workspace-spring-tools\firstMyApp\src\main\java\com\mr_Shivanand\myApp\student.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,12 +27,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.Mr_Shivanand.projectOnHibernate"/>
 			<item value="com.Mr_Shivanand.DemoSpring"/>
 		</list>
 		<list key="groupId">
 			<item value="com.Mr_Shivanand"/>
 		</list>
 		<list key="artifactId">
+			<item value="projectOnHibernate"/>
 			<item value="DemoSpring"/>
 		</list>
 		<list key="projectNameTemplate">

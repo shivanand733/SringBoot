@@ -4,7 +4,7 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- bean definitions here -->
-    <bean id  = "dev" class = "com.Mr_Shivanand.Dev">
-    </bean>
+    <bean id  = "Dev" class = "com.Mr_Shivanand.Dev">
+    </bean> 
 
 </beans>

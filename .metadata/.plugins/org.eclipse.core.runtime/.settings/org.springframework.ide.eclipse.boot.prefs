@@ -1,12 +1,13 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=2
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=firstWebApp
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.thymeleaf=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=4
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=thirdWebApp
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=4.0.1
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Creating the Web App Using The Spring Boot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.SpringShivu
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=firstWebApp
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=thirdWebApp
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.mr_Shivanand.myApp
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN

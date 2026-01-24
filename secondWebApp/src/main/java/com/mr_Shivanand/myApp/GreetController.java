@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class GreetController {
-	@GetMapping("/home")
+	@GetMapping("/homeShiva")
 	public String home() {
 		return "Kodnest";
 	}
